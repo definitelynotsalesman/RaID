@@ -11,5 +11,6 @@ pyinstaller-hooks-contrib==2024.11
 PyQt6==6.7.1
 PyQt6-Qt6==6.7.3
 PyQt6_sip==13.8.0
+requests==2.32.3
 setuptools==75.6.0
 urllib3==2.2.3
